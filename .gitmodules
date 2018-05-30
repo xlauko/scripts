@@ -1,0 +1,3 @@
+[submodule "mdtable2csv"]
+	path = mdtable2csv
+	url = https://github.com/tomroy/mdtable2csv.git
